@@ -8,4 +8,9 @@
 &nbsp;![](https://komarev.com/ghpvc/?username=rajavelbala771980&color=brightgreen)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajavelbala771980&show_icons=true&locale=en&theme=react" alt="bsubramanian-a" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajavelbala771980&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=rajavelbala771980&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajavelbala771980&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/gist/?username=rajavelbala771980&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/status/pat-info/?username=rajavelbala771980&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/status/up/?username=rajavelbala771980&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=react" />
 </p>
